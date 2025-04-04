@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    color: #F07334;
+}
+
+body {
+    background-color: #808080; /* Cambiado a gris */
+    background-image: url('../images/Forest_background_4.png'); /* Asegúrate de que la ruta sea correcta */
+    background-size: 100%; /* Reducir el tamaño del fondo */
+    background-position: center 20%; /* Desplazar el fondo hacia abajo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-size: cover;
+    height: 100%;
+}
